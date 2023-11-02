@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SubmissionIntermediateAndroid</string>
+    <string name="title_welcome_page">Selamat Datang di Aplikasi ShareMood</string>
+    <string name="desc_welcome_page">ShareMood adalah aplikasi platform yang memungkinkan Anda untuk berbagi status dan cerita sehari-hari Anda dengan teman-teman dan keluarga. Bagikan perasaan, pengalaman, dan momen penting dalam hidup Anda melalui teks, foto, dan video.</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="title_login_page">Sudah siap untuk upload story ?</string>
+    <string name="message_login_page">Masukkan dulu datamu</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="title_signup_page">Lengkapi data dirimu dibawah ini ya</string>
+    <string name="logout">keluar</string>
+    <string name="password_must_8character">Password harus lebih dari 8 karakter</string>
+    <string name="username">Username</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="desciription">Deskripsi</string>
+    <string name="menu_profile">Menu Profile</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="input_username">Masukkan nama pengguna</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+</resources>
